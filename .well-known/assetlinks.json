@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.xparsa070_code.twa",
+            "sha256_cert_fingerprints": [
+                "E0:18:4D:6F:D8:F0:A9:F7:9A:F2:28:E3:74:AD:1B:D8:98:90:8A:6C:C5:CA:1A:E8:36:F5:8D:0A:F4:6C:BD:CD"
+            ]
+        }
+    }
+]
